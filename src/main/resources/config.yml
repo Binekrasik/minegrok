@@ -2,13 +2,4 @@
 NGROK_SETTINGS:
   AUTH_TOKEN: ""
   REGION: "US" # IN, AP, AU, EU, JP, SA, US
-  #The region in which NGROK should host your tunnel. Use the closest to you for good ping.
-
-# Discord IP update messages configuration.
-DISCORD_UPDATES:
-  ENABLED: false
-  BOT_TOKEN: ""
-  UPDATE_CHANNEL_ID: ""
-  UPDATE_MESSAGE: "**Updated Server IP** : %server_ip%"
-  # DO NOT TOUCH, THIS IS MODIFIED BY THE PLUGIN.
-  UPDATE_MESSAGE_ID: 0
+  #The region in which NGROK should host your tunnel. Use the closest to you for good latency.
