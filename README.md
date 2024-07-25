@@ -2,13 +2,13 @@
 A fork of [Ixf1nity's ngrok-mc-impl plugin](https://github.com/Ixf1nity/ngrok-mc-impl) that improves performance a bit by completely ditching the Discord integration.
 
 ## Installation
-1. Download the plugin jar from the latest Github Release.
+1. Download the plugin jar from the latest Github release.
 2. Navigate to the ``plugins`` folder in your server's root directory.
-3. Copy the plugin jar to the ``plugins`` folder.
-4. Start the server and wait until the configuration files of the plugin are generated.
+3. Put the plugin jar to the ``plugins`` folder.
+4. Start the server and wait until it fully starts.
 5. Stop the server.
-6. Navigate to the ``plugins`` folder and open folder ``NgrokCommunication``
-7. Open config.yml & fill the required information (ngrok auth token, region, discord connection, etc.)
+6. Navigate to the ``plugins`` folder and open folder ``Minegrok``
+7. Open config.yml & fill the required information (auth token, region, etc.)
 8. Restart the server.
 9. The public IP will be logged in the console and should be ready to use.
 
