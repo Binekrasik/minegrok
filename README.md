@@ -1,5 +1,5 @@
 # Minegrok
-A fork of [Ixf1nity's ngrok plugin](https://github.com/Ixf1nity/ngrok-mc-impl) that improves performance a bit by completely ditching the Discord integration.
+A fork of [Ixf1nity's ngrok-mc-impl plugin](https://github.com/Ixf1nity/ngrok-mc-impl) that improves performance a bit by completely ditching the Discord integration.
 
 ## Installation
 1. Download the plugin jar from the latest Github Release.
